@@ -18,4 +18,4 @@ This project demonstrates how to connect a Java application to a PostgreSQL data
 ## 🚀 Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/jdbc-postgres-project.git
+   git clone https://github.com/sugganabalaji/JdbcProject.git
